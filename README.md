@@ -1,3 +1,2 @@
-## End To End ML Project Mushroom git Classification
+## Dummy Project structure for End To End ML Project
 
-End_To_End_ML_Project_Mushroom_Classification
